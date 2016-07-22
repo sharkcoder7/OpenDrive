@@ -1,9 +1,9 @@
 ![OpenDrive ScreenShot1](1.jpeg)
-![OpenDrive ScreenShot2](3.jpeg)
+![OpenDrive ScreenShot2](2.jpeg)
 
 # OpenDrive
 
-Store, sync or backup your documents, music and pictures online with instant access, sharing and collaboration, all in a simple to use, secure environment.
+Store, sync or backup your documents, music and pictures online with instant access, sharing and collaboration, all in a simple to use, secure environment.
 
 In a simple but effective interface, create notepads with single notes and to-do lists. Attach pictures and documents to any note and write comments.
 
