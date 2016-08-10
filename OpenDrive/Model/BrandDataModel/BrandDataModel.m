@@ -2,8 +2,8 @@
 //  BrandDataModel.m
 //  OpenDrive
 //
-//  Created by Bin Jin on 1/30/16.
-//  Copyright © 2016 Bin Jin. All rights reserved.
+//  Created by ioshero on 1/30/16.
+//  Copyright © 2016 ioshero. All rights reserved.
 //
 
 #import "BrandDataModel.h"

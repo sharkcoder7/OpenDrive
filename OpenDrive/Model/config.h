@@ -2,8 +2,8 @@
 //  config.h
 //  OpenDrive
 //
-//  Created by Bin Jin on 12/28/15.
-//  Copyright © 2015 Bin Jin. All rights reserved.
+//  Created by ioshero on 12/28/15.
+//  Copyright © 2015 ioshero. All rights reserved.
 //
 
 #ifndef config_h

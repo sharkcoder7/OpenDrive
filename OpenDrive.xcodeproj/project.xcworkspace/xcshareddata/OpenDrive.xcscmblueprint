@@ -1,26 +1,26 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "773ec4cc-ccba-4670-a3a6-be5421c741fc++5120+++713ADAD",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "86ED61937E4614A782E84C5FC4BCD2F0923B9300+++713ADAD",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "86ED61937E4614A782E84C5FC4BCD2F0923B9300+++713ADAD" : {
+
+    },
     "773ec4cc-ccba-4670-a3a6-be5421c741fc++5120+++49E21E8" : {
 
     },
     "773ec4cc-ccba-4670-a3a6-be5421c741fc++5120+++9687237" : {
 
-    },
-    "773ec4cc-ccba-4670-a3a6-be5421c741fc++5120+++713ADAD" : {
-
     }
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "86ED61937E4614A782E84C5FC4BCD2F0923B9300+++713ADAD" : 0,
     "773ec4cc-ccba-4670-a3a6-be5421c741fc++5120+++49E21E8" : 0,
-    "773ec4cc-ccba-4670-a3a6-be5421c741fc++5120+++9687237" : 0,
-    "773ec4cc-ccba-4670-a3a6-be5421c741fc++5120+++713ADAD" : 0
+    "773ec4cc-ccba-4670-a3a6-be5421c741fc++5120+++9687237" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E2C6652B-18C5-4BD1-8ABC-7EE1177F0795",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "86ED61937E4614A782E84C5FC4BCD2F0923B9300+++713ADAD" : "OpenDrive\/",
     "773ec4cc-ccba-4670-a3a6-be5421c741fc++5120+++49E21E8" : "..",
-    "773ec4cc-ccba-4670-a3a6-be5421c741fc++5120+++9687237" : "OpenDrive\/",
-    "773ec4cc-ccba-4670-a3a6-be5421c741fc++5120+++713ADAD" : "OpenDrive\/"
+    "773ec4cc-ccba-4670-a3a6-be5421c741fc++5120+++9687237" : "OpenDrive\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "OpenDrive",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -39,12 +39,12 @@
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/sandbox.opendrive.com:8443\/svn\/opendrive_iphone",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "773ec4cc-ccba-4670-a3a6-be5421c741fc++5120+++713ADAD"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "773ec4cc-ccba-4670-a3a6-be5421c741fc++5120+++9687237"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/sandbox.opendrive.com:8443\/svn\/opendrive_iphone",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "773ec4cc-ccba-4670-a3a6-be5421c741fc++5120+++9687237"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "86ED61937E4614A782E84C5FC4BCD2F0923B9300+++713ADAD"
     }
   ]
 }

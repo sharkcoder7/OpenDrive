@@ -2,8 +2,8 @@
 //  WelcomeVC.m
 //  OpenDrive
 //
-//  Created by Bin Jin on 12/27/15.
-//  Copyright © 2015 Bin Jin. All rights reserved.
+//  Created by ioshero on 12/27/15.
+//  Copyright © 2015 ioshero. All rights reserved.
 //
 
 #import "WelcomeVC.h"

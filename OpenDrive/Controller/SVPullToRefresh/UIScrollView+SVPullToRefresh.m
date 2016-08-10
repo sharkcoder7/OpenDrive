@@ -2,8 +2,8 @@
 //  UIScrollView+SVPullToRefresh.m
 //  OpenDrive
 //
-//  Created by Bin Jin on 1/19/15.
-//  Copyright © 2015 Bin Jin. All rights reserved.
+//  Created by ioshero on 1/19/15.
+//  Copyright © 2015 ioshero. All rights reserved.
 //
 
 #import <QuartzCore/QuartzCore.h>
