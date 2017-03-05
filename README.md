@@ -3,11 +3,9 @@
 
 # OpenDrive
 
-Store, sync or backup your documents, music and pictures online with instant access, sharing and collaboration, all in a simple to use, secure environment.
+The OpenDrive for iPhone application keeps your data at your fingertips at all times, right from your iPhone, iPad or iPod Touch. Stream music and videos, save photos and movies, share files and entire folders, all from the OpenDrive iOS app.
 
-In a simple but effective interface, create notepads with single notes and to-do lists. Attach pictures and documents to any note and write comments.
-
-A powerful task and project management tool that helps you manage and collaborate on any project within a single interface. Share tasks with your account users or anyone else.
+OpenDrive allows you to take your most important files with you wherever you go. You can even edit files directly from your iOS device.
 
 * Upload and Preview Files
 * Upload Selected Files
